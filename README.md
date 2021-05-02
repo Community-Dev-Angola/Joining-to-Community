@@ -43,8 +43,8 @@ Execute as seguintes tarefas e nós o convidaremos para se juntar à nossa comun
 
 8. Acesse o repositório GitHub `Joining-to-Community` em sua conta
 
-Abra uma Pull Request para o repositório da comunidade.
+    - Abra uma Pull Request para o repositório da comunidade.
 
 ## OBS
-O convite chegará no seu email depois que a sua Pull Request for aceite. 
+O convite chegará no seu email depois que a sua Pull Request for aceite.<br/>
 A Comunidade aguarda por você :)
