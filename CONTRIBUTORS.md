@@ -9,5 +9,5 @@ Por exemplo:
 Membros da Organização:
 
 - Kakidiako Afonso António [kakidiakoafonso]
-- Kakidiako Aldmiro De Jesus Passagem [aldmiropassagem]
+- Aldmiro De Jesus Passagem [aldmiropassagem]
 
