@@ -9,4 +9,3 @@ Por exemplo:
 Membros da Organização:
 
 - Kakidiako Afonso António [kakidiakoafonso]
-- Joaquim Catumua Roque [joaroque]
