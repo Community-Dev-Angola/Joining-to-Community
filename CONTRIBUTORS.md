@@ -1,10 +1,6 @@
 # Join the Organization
 
-Adicione por favor o {Seu nome de perfil} e {Seu nome de usuário do GitHub} e submeta a Pull Request.
-
-Por exemplo:
-
-- Gentil D. Pinto [gentildpinto]
+- Romário Nzenguele da Silva [RomarioNzenguele]
 
 Membros da Organização:
 
