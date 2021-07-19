@@ -1,6 +1,6 @@
 # Join the Organization
 
-Adicione por favor o {Josemar da Silva} e {josymarss} e submeta a Pull Request.
+Adicione por favor o {Seu nome de perfil} e {Seu nome de usuário do GitHub} e submeta a Pull Request.
 
 Por exemplo:
 
@@ -10,4 +10,4 @@ Membros da Organização:
 
 - Kakidiako Afonso António [kakidiakoafonso]
 - Aldmiro De Jesus Passagem [aldmiropassagem]
-
+-Josemar da Silva [josymarss]
