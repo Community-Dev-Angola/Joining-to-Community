@@ -26,7 +26,7 @@ Execute as seguintes tarefas e nós o convidaremos para se juntar à nossa comun
     $ git checkout -b {username}
     ```
 
-5. Adicione o seu nome de perfil e o seu nome de usuário do GitHub no arquivo `CONTRIBUTORS.md`
+5. Adicione o seu nome de perfil e o seu nome de usuário do GitHub na seção "**Membros da Organização**" no arquivo `CONTRIBUTORS.md`
 
 6. Commit suas mudanças
 
