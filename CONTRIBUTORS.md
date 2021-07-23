@@ -10,4 +10,4 @@ Membros da Organização:
 
 - Kakidiako Afonso António [kakidiakoafonso]
 - Aldmiro De Jesus Passagem [aldmiropassagem]
--Josemar da Silva [josymarss]
+- Josemar da Silva [josymarss]
