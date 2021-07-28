@@ -14,4 +14,5 @@ Membros da Organização:
 - Aldmiro De Jesus Passagem [aldmiropassagem]
 - Romário Nzenguele da Silva [RomarioNzenguele]
 - Josemar da Silva [josymarss]
+- Balduino António Fernando [balduinofernando]
 - Filipe André [ifilipe-lype]
