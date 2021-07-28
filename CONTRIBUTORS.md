@@ -15,3 +15,4 @@ Membros da Organização:
 - Romário Nzenguele da Silva [RomarioNzenguele]
 - Josemar da Silva [josymarss]
 - Balduino António Fernando [balduinofernando]
+- Filipe André [ifilipe-lype]
