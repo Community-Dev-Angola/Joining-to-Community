@@ -16,3 +16,4 @@ Membros da Organização:
 - Josemar da Silva [josymarss]
 - Balduino António Fernando [balduinofernando]
 - Filipe André [ifilipe-lype]
+- Misael Lopes [misaellopes01]
