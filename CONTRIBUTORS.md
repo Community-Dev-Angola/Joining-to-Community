@@ -17,3 +17,4 @@ Membros da Organização:
 - Balduino António Fernando [balduinofernando]
 - Filipe André [ifilipe-lype]
 - Misael Lopes [misaellopes01]
+- Gregório Francisco [gregoriofrancisco99]
