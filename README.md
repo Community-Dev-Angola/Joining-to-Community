@@ -2,7 +2,11 @@
   <img src="./.github/images/cda.png" width="200" alt="CDA Logo" title="CDA Logo">
   <h1 align="center">Joining-to-Community</h1>
 
-  <p align="center">Community Dev Angola :rocket:</p>
+  <p align="center">
+    Seja muito bem vindo(a) à Community Dev Angola :rocket:
+    <br/>
+    Esse é um espaço para você tirar suas dúvidas, compartilhar suas experiências, e principalmente, evoluir como programador.
+  </p>
 </p>
 
 Execute as seguintes tarefas e nós o convidaremos para se juntar à nossa comunidade
@@ -46,6 +50,18 @@ Execute as seguintes tarefas e nós o convidaremos para se juntar à nossa comun
 
     - Abra uma Pull Request para o repositório da comunidade.
 
-## OBS
+### OBS
 O convite chegará no seu email depois que a sua Pull Request for aceite.<br/>
 A Comunidade aguarda por você :)
+
+### Junte-se também a nós nestes canais:
+
+- Discord: https://discord.gg/HpNkwhztzX
+
+- Grupo do Facebook: https://www.facebook.com/groups/communitydevangola
+
+- Pagina do Facebook: https://www.facebook.com/communitydevangola/
+
+- Telegram: https://t.me/communitydevangola
+
+- YouTube: https://www.youtube.com/channel/UCNMvs5Uo4a_qdd33405eAoQ
