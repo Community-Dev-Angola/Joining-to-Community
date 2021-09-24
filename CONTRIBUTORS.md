@@ -18,3 +18,4 @@ Membros da Organização:
 - Filipe André [ifilipe-lype]
 - Misael Lopes [misaellopes01]
 - Gregório Francisco [gregoriofrancisco99]
+- Elton Kamuango[ElorakEK]
