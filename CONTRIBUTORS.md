@@ -10,6 +10,7 @@ Exemplo:
 
 Membros da Organização:
 
+- Francisco Fetapi [Francisco-Fetapi]
 - Kakidiako Afonso António [kakidiakoafonso]
 - Aldmiro De Jesus Passagem [aldmiropassagem]
 - Romário Nzenguele da Silva [RomarioNzenguele]
