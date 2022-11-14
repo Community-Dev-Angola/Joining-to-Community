@@ -21,3 +21,4 @@ Membros da Organização:
 - Gregório Francisco [gregoriofrancisco99]
 - Elton Kamuango[ElorakEK]
 - José Matoso [JMatoso]
+- Manuel Benedito [kulecalala]
