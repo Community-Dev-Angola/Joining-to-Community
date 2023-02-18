@@ -22,3 +22,4 @@ Membros da Organização:
 - Elton Kamuango[ElorakEK]
 - José Matoso [JMatoso]
 - Manuel Benedito [kulecalala]
+-José Alfredo Mário Dos Santos [Josemario17]
