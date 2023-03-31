@@ -9,7 +9,7 @@ Exemplo:
 - Gentil D. Pinto [gentildpinto]
 
 Membros da Organização:
-
+- Vicente Sombo [sombo20]
 - Francisco Fetapi [Francisco-Fetapi]
 - Kakidiako Afonso António [kakidiakoafonso]
 - Aldmiro De Jesus Passagem [aldmiropassagem]
