@@ -23,3 +23,4 @@ Membros da Organização:
 - José Matoso [JMatoso]
 - Manuel Benedito [kulecalala]
 - Manuel Canganjo [manuelbento19]
+- Pedro Alberto [Edlavio]
