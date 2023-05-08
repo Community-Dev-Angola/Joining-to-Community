@@ -24,4 +24,4 @@ Membros da Organização:
 - Manuel Benedito [kulecalala]
 - Manuel Canganjo [manuelbento19]
 - Pedro Alberto [Edlavio]
-- Magalhães de Lemos [MexLemos]
+- Daniel Moniz [daniel-koti]
