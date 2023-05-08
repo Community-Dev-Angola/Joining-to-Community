@@ -24,4 +24,4 @@ Membros da Organização:
 - Manuel Benedito [kulecalala]
 - Manuel Canganjo [manuelbento19]
 - Pedro Alberto [Edlavio]
-- Nurul Gaspar Carvalho [Nurul-GC]
+- Félix Pereira [FelixPereira]
