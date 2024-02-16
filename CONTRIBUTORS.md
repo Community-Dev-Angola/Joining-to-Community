@@ -25,3 +25,4 @@ Membros da Organização:
 - Manuel Canganjo [manuelbento19]
 - Pedro Alberto [Edlavio]
 - Miguel Domingos [Miguel-Domingos]
+- Domingos Dias [Unilsis] 
