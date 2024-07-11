@@ -24,4 +24,5 @@ Membros da Organização:
 - Manuel Benedito [kulecalala]
 - Manuel Canganjo [manuelbento19]
 - Pedro Alberto [Edlavio]
+- Pedro Zau [pedrozau]
 - Miguel Domingos [Miguel-Domingos]
