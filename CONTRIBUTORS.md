@@ -25,3 +25,4 @@ Membros da Organização:
 - Manuel Canganjo [manuelbento19]
 - Pedro Alberto [Edlavio]
 - Miguel Domingos [Miguel-Domingos]
+- [Manuel dos Santos](https://github.com/mannuelst) [mannuelst]
